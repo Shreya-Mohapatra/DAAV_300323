@@ -1,0 +1,34 @@
+---
+title: "index"
+author: "Shreya Mohapatra"
+date: "2023-03-30"
+output: html_document
+---
+# This is a big heading
+Now it needs a bit of a body.
+
+- maybe a list
+- i like avocadoes
+
+## This is maybe a subheading
+What else do I like
+
+- starting to like the world of data
+- eh... Sheffield
+- um, potatoes
+
+### just because
+
+hey, let's try r!
+
+```{r}
+data <- c(1, 2, 3, 4)
+```
+
+Let's see mean of this random data I created because I can `r mean(data)`
+
+# This marks the end
+
+You are a free bird.
+
+## sike, changed my mind
